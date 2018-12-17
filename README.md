@@ -1,5 +1,5 @@
 # Projeto Robocin
-Projeto do processo seletivo para o robocin 2018, voltado para a área de visão computacional
+Projeto do processo seletivo para o robocin 2018, voltado para a área de visão computacional, projetado no ambiente virtual de desenvolvemento Ipython
 
 ## Proposta desenvolvida no projeto:
 (Desafio de video): foi usado a biblioteca open source Opencv para o tracker de robôs, em um trecho de uma competição na categoria very small size, a partir desse tracker se obteve uma aproximação da distancia de cada robô até a bola, e as velocidades dos objetos na cena. Esses dados são retornados para a main do código principal como uma lista que representa uma arvore enraizada na bola.
